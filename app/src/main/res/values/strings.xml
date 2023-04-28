@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aydan</string>
+    <string name="title_demo">Aydan\'s Universe</string>
+    <string name="body_demo">testo di spiegazione, scrivere qua alcune idee per creare l\'app\: es. creazione del personaggio o la scheda di tiro dado o una scheda PNG </string>
+    <string name="end_demo">Thank you</string>
+    <string name="alan">Alan</string>
+    <string name="rustof">Rustof</string>
+    <string name="razza">Razza:</string>
+    <string name="sconosciuta">sconosciuta</string>
+    <string name="età">Età:</string>
+    <string name="cicli">24 cicli</string>
+    <string name="lavoro">Lavoro:</string>
+    <string name="meccanico">meccanico</string>
+    <string name="altezza">Altezza:</string>
+    <string name="metri">1.75 m</string>
+</resources>
